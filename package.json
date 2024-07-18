@@ -13,6 +13,7 @@
     "@sap/hdi-deploy": "^5.2.0",
     "@sap/xsenv": "^5.1.0",
     "@sap/xssec": "^3.6.1",
+    "cheerio": "^1.0.0-rc.12",
     "express": "^4",
     "passport": "^0.7.0"
   },
