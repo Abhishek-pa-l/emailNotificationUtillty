@@ -1,3 +1,4 @@
 service CatalogService {
-   action sendmail(to: String, subject: String);
+   action sendmail(to: String, subject: String, templetType:String);
 }
+
